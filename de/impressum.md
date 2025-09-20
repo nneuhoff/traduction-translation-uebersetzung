@@ -20,9 +20,9 @@ DE | <a href="../en/impressum.md">EN</a> | <a href="../fr/impressum.md">FR</a>
 <hr>
 
 # Angaben gemäß französischem Recht (LCEN)
-Nina Neuhoff
-Übersetzerin & Copywriterin (freiberuflich)
-29200 Brest
+Nina Neuhoff,
+Übersetzerin & Copywriterin (freiberuflich),
+29200 Brest,
 SIRET: 989 971 551 000019
 
 # Verantwortlich für den Inhalt
