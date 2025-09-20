@@ -15,7 +15,21 @@ FR | <a href="../de/index.md">DE</a> | <a href="../en/index.md">EN</a>
 </table>
 <hr>
 
+<form action="https://formspree.io/f/mldwqbvj" method="POST">
+  <label>Nom*</label><br>
+  <input type="text" name="name" required><br><br>
 
+  <label>Email*</label><br>
+  <input type="email" name="_replyto" required><br><br>
+
+  <label>Message*</label><br>
+  <textarea name="message" required></textarea><br><br>
+
+  <label for="file">Pièce-jointe (optional)</label><br>
+  <input type="file" id="file" name="file"><br><br>
+
+  <button type="submit">Enyoyer</button>
+</form>
 
 
 <!-- Footer -->
