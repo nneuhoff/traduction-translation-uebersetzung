@@ -17,13 +17,18 @@ DE | <a href="../en/impressum.md">EN</a> | <a href="../fr/impressum.md">FR</a>
 
 # Übersetzungsservice Nina Neuhoff
 
-Übersetzerin & Copywriterin – Französisch, Englisch, Deutsch 
+<p align="center">
+<img src="../assets/profile.jpg" width="200">
+</p>
 
-Fachbereiche: Marketing & Kommunikation, Tourismus & Kultur, Technik, Bildung, Literatur 
+**Übersetzerin & Copywriterin – Französisch, Englisch, Deutsch**
 
-Sprachrichtungen Übersetzen: FR/EN → DE
-Copywriting: FR/EN/DE 
-
+## Fachgebiete
+- Marketing & Kommunikation
+- Tourismus & Kultur
+- Technik
+- Bildung
+- Literatur
 
 <!-- Footer -->
 <hr>
