@@ -1,7 +1,3 @@
----
-title: Impressum
----
-
 <!-- Header -->
 <table width="100%">
 <tr>
