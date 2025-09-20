@@ -18,7 +18,7 @@ DE | <a href="../en/impressum.md">EN</a> | <a href="../fr/impressum.md">FR</a>
 # Übersetzungsservice Nina Neuhoff
 
 <p align="center">
-<img src="../assets/profile.jpg" width="200">
+<img src="../assets/profil.jpg" width="200">
 </p>
 
 **Übersetzerin & Copywriterin – Französisch, Englisch, Deutsch**
