@@ -15,7 +15,20 @@ EN | <a href="../de/index.md">DE</a> | <a href="../fr/index.md">FR</a>
 </table>
 <hr>
 
+# Translation Service Nina Neuhoff
 
+<p align="center">
+<img src="../assets/profil.jpg" width="200">
+</p>
+
+**Translator & Copywriter – French, English, German**
+
+## Specialist fields
+- Marketing & Communication
+- Tourism & Cultur
+- Technology
+- Education
+- Literature
 
 
 <!-- Footer -->
