@@ -1,7 +1,3 @@
----
-title: Startseite
----
-
 <!-- Header -->
 <table width="100%">
 <tr>
