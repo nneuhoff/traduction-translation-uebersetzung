@@ -1,4 +1,9 @@
-<!-- Header -->
+---
+layout: default-en
+title: "Services"
+lang: en
+---
+
 <table width="100%">
 <tr>
 <td align="left">
