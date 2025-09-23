@@ -41,7 +41,7 @@ To allow me to process your translation request as effectively as possible, plea
   <label for="message">Message*</label><br>
   <input type="text" id="message" name="message" required><br><br> 
   
-  <button type="submit">Senden</button>
+  <button type="submit">Send</button>
 </form> 
 
 <!-- Footer -->
