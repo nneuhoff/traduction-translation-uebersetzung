@@ -22,7 +22,7 @@ Jeder Text ist einzigartig – und so auch der Preis. Die Kosten für eine Über
 ### Richtwerte für die Preisberechnung*:
 - pro Wort des Ausgangstextes: 0,14 €
 - pro Normzeile (55 Anschläge) des Ausgangstextes: 1,15 €
-- 
+  
 Eine einmalige Revision bei Änderungswünschen ist pro Auftrag im Preis enthalten.
 
 *Keine Mehrwertsteuer (TVA) nach Artikel 293 B des französischen CGI.
