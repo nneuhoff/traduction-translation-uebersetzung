@@ -1,4 +1,8 @@
-<!-- Header -->
+---
+layout: default-en
+title: "Legal Notice"
+lang: en
+---
 <table width="100%">
 <tr>
 <td align="left">
