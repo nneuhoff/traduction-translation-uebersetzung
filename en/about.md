@@ -4,6 +4,8 @@ title: "About me"
 lang: en
 ---
 
+## About me
+
 “Language is the road map of a culture. It tells you where its people come from and where they are going.” - Rita Mae Brown 
 
 This quote emphasizes the profound link between language and culture – a connection that is central to translation. After all, translation is more than the mere transfer of words or phrases; it requires a deep understanding of language, culture, and text types – and the ability to convey the essence of a text effectively in the target language.
