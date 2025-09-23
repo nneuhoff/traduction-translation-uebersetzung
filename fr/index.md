@@ -20,7 +20,6 @@ FR | <a href="../de/index.html">DE</a> | <a href="../en/index.html">EN</a>
 </table>
 <hr>
 
-## Service de traduction Nina Neuhoff
 
 <p align="center">
 <img src="../assets/profil.jpg" width="200">
