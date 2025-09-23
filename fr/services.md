@@ -20,6 +20,7 @@ FR | <a href="../de/index.html">DE</a> | <a href="../en/index.html">EN</a>
 </table>
 <hr>
 
+## Services
 
 La langue, c'est plus que la grammaire : elle relie les gens, les marchés et les idées. Je propose des traductions qui sont à la fois correctes et efficaces. Des recherches approfondies sont pour moi une évidence.
 
