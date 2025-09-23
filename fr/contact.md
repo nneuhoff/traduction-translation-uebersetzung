@@ -20,6 +20,8 @@ FR | <a href="../de/index.html">DE</a> | <a href="../en/index.html">EN</a>
 </table>
 <hr>
 
+## Contact
+
 Vous avez des questions ou souhaitez un devis gratuit et sans engagement ?
 
 Envoyez-moi simplement un message via le formulaire de contact – je vous répondrai dans les plus brefs délais.
