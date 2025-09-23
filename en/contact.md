@@ -31,31 +31,37 @@ To allow me to process your translation request as effectively as possible, plea
 
 ### Contact form
 
-<form
-  action="https://formspree.io/f/xgvneyoq"
+<form 
+  action="https://formie.io/form/9a26129f-18ff-4796-b5f5-30694e5f0a55"
   method="POST"
+  enctype="multipart/form-data"
 >
-  <label>
+  <label> 
+    Your name*:
+    <input type="text" name="name" required>
+  </label>
+  <br><br>
+
+  <label> 
     Your email*:
     <input type="email" name="email" required>
   </label>
   <br><br>
-  
-  <label>
-    Link to your file (Google Drive, Dropbox, etc.):
-    <input type="url" name="file_link" placeholder="https://...">
-  </label>
-  <br><br>
-  
-  <label>
-    Your message*:
-     <input type="message" name="message" required>
-  </label>
-  <br><br>
-  
-  <button type="submit">Send</button>
-</form>
 
+  <label> 
+    Your message*:
+    <input type="message" name="message" required>
+  </label>
+  <br><br>
+
+  <label> 
+    File (optional, max. 5 MB):
+    <input type="file" name="file">
+  </label> 
+  <br><br> 
+
+  <button type="submit">Submit</button>
+</form> 
 
 <!-- Footer -->
 <hr>
