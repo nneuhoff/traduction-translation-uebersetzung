@@ -2,14 +2,14 @@
 <table width="100%">
 <tr>
 <td align="left">
-<a href="index.md">Startseite</a> |
-<a href="about.md">Über mich</a> |
-<a href="services.md">Leistungen</a> |
-<a href="pricing.md">Preise</a> |
-<a href="contact.md">Kontakt</a>
+<a href="index.html">Startseite</a> |
+<a href="about.html">Über mich</a> |
+<a href="services.html">Leistungen</a> |
+<a href="pricing.html">Preise</a> |
+<a href="contact.html">Kontakt</a>
 </td>
 <td align="right">
-DE | <a href="../en/impressum.md">EN</a> | <a href="../fr/impressum.md">FR</a>
+DE | <a href="../en/index.html">EN</a> | <a href="../fr/index.html">FR</a>
 </td>
 </tr>
 </table>
