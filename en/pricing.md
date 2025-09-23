@@ -1,4 +1,9 @@
-<!-- Header -->
+---
+layout: default-en
+title: "Pricing"
+lang: en
+---
+
 <table width="100%">
 <tr>
 <td align="left">
