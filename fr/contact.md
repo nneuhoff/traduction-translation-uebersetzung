@@ -1,15 +1,14 @@
-<!-- Header -->
 <table width="100%">
 <tr>
 <td align="left">
-<a href="index.md">Page d'accueil</a> |
-<a href="about.md">A propos de moi</a> |
-<a href="services.md">Services</a> |
-<a href="pricing.md">Tarifs</a> |
-<a href="contact.md">Contact</a>
+<a href="index.html">Page d'accueil</a> |
+<a href="about.html">A propos de moi</a> |
+<a href="services.html">Services</a> |
+<a href="pricing.html">Tarifs</a> |
+<a href="contact.html">Contact</a>
 </td>
 <td align="right">
-FR | <a href="../de/index.md">DE</a> | <a href="../en/index.md">EN</a>
+FR | <a href="../de/index.html">DE</a> | <a href="../en/index.html">EN</a>
 </td>
 </tr>
 </table>
