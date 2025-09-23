@@ -2,14 +2,14 @@
 <table width="100%">
 <tr>
 <td align="left">
-<a href="index.md">Startseite</a> |
-<a href="about.md">Über mich</a> |
-<a href="services.md">Leistungen</a> |
-<a href="pricing.md">Preise</a> |
-<a href="contact.md">Kontakt</a>
+<a href="index.html">Startseite</a> |
+<a href="about.html">Über mich</a> |
+<a href="services.html">Leistungen</a> |
+<a href="pricing.html">Preise</a> |
+<a href="contact.html">Kontakt</a>
 </td>
 <td align="right">
-DE | <a href="../en/index.md">EN</a> | <a href="../fr/index.md">FR</a>
+DE | <a href="../en/index.html">EN</a> | <a href="../fr/index.html">FR</a>
 </td>
 </tr>
 </table>
@@ -31,5 +31,5 @@ Eine einmalige Revision bei Änderungswünschen ist pro Auftrag im Preis enthalt
 <!-- Footer -->
 <hr>
 <p align="center">
-&copy; 2025 Nina Neuhoff | <a href="http://www.linkedin.com/in/nina-neuhoff-32b162283">LinkedIn</a> | <a href="https://www.proz.com/translator/4180778">ProZ</a> | <a href="impressum.md">Impressum</a>
+&copy; 2025 Nina Neuhoff | <a href="http://www.linkedin.com/in/nina-neuhoff-32b162283">LinkedIn</a> | <a href="https://www.proz.com/translator/4180778">ProZ</a> | <a href="impressum.html">Impressum</a>
 </p>
