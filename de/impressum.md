@@ -15,19 +15,22 @@ DE | <a href="../en/index.html">EN</a> | <a href="../fr/index.html">FR</a>
 </table>
 <hr>
 
-# Angaben gemäß französischem Recht (LCEN)
+## Impressum
+
+
+### Angaben gemäß französischem Recht (LCEN)
 Nina Neuhoff,
 Übersetzerin & Copywriterin (freiberuflich),
 29200 Brest,
 SIRET: 989 971 551 000019
 
-# Verantwortlich für den Inhalt
+### Verantwortlich für den Inhalt
 Nina Neuhoff  
 
-# Haftungsausschluss
+### Haftungsausschluss
 Die Inhalte dieser Website wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität wird jedoch keine Haftung übernommen.  
 
-# Urheberrecht
+### Urheberrecht
 Alle Texte und Bilder auf dieser Website sind urheberrechtlich geschützt. Vervielfältigung, Bearbeitung oder Verbreitung nur mit vorheriger Zustimmung erlaubt.
 
 <!-- Footer -->
