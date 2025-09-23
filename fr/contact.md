@@ -15,21 +15,23 @@ FR | <a href="../de/index.md">DE</a> | <a href="../en/index.md">EN</a>
 </table>
 <hr>
 
-<form action="https://formspree.io/f/mldwqbvj" method="POST">
-  <label>Nom*</label><br>
-  <input type="text" name="name" required><br><br>
+## Contact
+Vous avez des questions ou souhaitez un devis gratuit et sans engagement ?
 
-  <label>Email*</label><br>
-  <input type="email" name="_replyto" required><br><br>
+Envoyez-moi simplement un message via le formulaire de contact – je vous répondrai dans les plus brefs délais.
 
-  <label>Message*</label><br>
-  <textarea name="message" required></textarea><br><br>
+Pour m’aider à traiter votre demande de traduction efficacement, merci de fournir autant que possible les informations suivantes :
 
-  <label for="file">Pièce-jointe (optional)</label><br>
-  <input type="file" id="file" name="file"><br><br>
+- Type de texte et objectif (ex. site web, brochure, réseaux sociaux)
+- Public cible
+- Volume / longueur
+- Délai souhaité
+- Format ou contraintes de mise en page
+- Exigences particulières ou remarques
 
-  <button type="submit">Enyoyer</button>
-</form>
+### Formulaire de contact
+
+
 
 
 <!-- Footer -->
