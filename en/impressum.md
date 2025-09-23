@@ -15,7 +15,7 @@ EN | <a href="../de/index.md">DE</a> | <a href="../fr/index.md">FR</a>
 </table>
 <hr>
 
-# According to French law (LCEN).
+# According to French law (LCEN)
 Nina Neuhoff,
 Freelance Translator & Copywriter,
 29200 Brest,
