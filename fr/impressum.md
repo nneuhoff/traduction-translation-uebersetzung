@@ -1,3 +1,10 @@
+---
+layout: default-fr
+title: "Mentions légales"
+lang: fr
+---
+
+
 <table width="100%">
 <tr>
 <td align="left">
@@ -13,8 +20,6 @@ FR | <a href="../de/index.html">DE</a> | <a href="../en/index.html">EN</a>
 </tr>
 </table>
 <hr>
-
-## Mentions légales
 
 ### Conformément à la loi française (LCEN)
 Nina Neuhoff,
