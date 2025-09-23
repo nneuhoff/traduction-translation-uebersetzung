@@ -4,6 +4,20 @@ title: "Contact"
 lang: en
 ---
 <table width="100%">
+<tr>
+<td align="left">
+<a href="index.html">Homepage</a> |
+<a href="about.html">About me</a> |
+<a href="services.html">Services</a> |
+<a href="pricing.html">Pricing</a> |
+<a href="contact.html">Contact</a>
+</td>
+<td align="right">
+EN | <a href="../de/index.html">DE</a> | <a href="../fr/index.html">FR</a>
+</td>
+</tr>
+</table>
+<hr>
 
 ## Contact
 Would you like a free, non-binding quote, or do you have any questions?
@@ -47,8 +61,15 @@ To allow me to process your translation request as effectively as possible, plea
   <label> 
     File (optional, max. 5 MB):
     <input type="file" name="file">
+
   </label> 
   <br><br> 
 
   <button type="submit">Submit</button>
 </form> 
+
+<!-- Footer -->
+<hr>
+<p align="center">
+&copy; 2025 Nina Neuhoff | <a href="http://www.linkedin.com/in/nina-neuhoff-32b162283">LinkedIn</a> | <a href="https://www.proz.com/translator/4180778">ProZ</a> | <a href="impressum.html">legal notice</a>
+</p>
