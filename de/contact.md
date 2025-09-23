@@ -38,8 +38,8 @@ Damit ich Ihre Übersetzungsanfrage optimal bearbeiten kann, geben Sie bitte fol
   <input type="email" id="email" name="_replyto" required><br><br>
 
   <label for="message">Nachricht*</label><br>
-  <textarea id="message" name="message" rows="6" cols="40" required></textarea><br><br>
-
+  <input type="text" id="message" name="message" required><br><br> 
+  
   <button type="submit">Senden</button>
 </form> 
 
