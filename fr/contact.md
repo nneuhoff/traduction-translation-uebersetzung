@@ -30,7 +30,18 @@ Pour m’aider à traiter votre demande de traduction efficacement, merci de fou
 - Exigences particulières ou remarques
 
 ### Formulaire de contact
+<form action="https://formspree.io/f/mldwqbvj" method="POST"> 
+  <label for="name">Nom*</label><br>
+  <input type="text" id="name" name="name" required><br><br>
 
+  <label for="email">Email*</label><br>
+  <input type="email" id="email" name="_replyto" required><br><br>
+
+  <label for="message">Message*</label><br>
+  <input type="text" id="message" name="message" required><br><br> 
+  
+  <button type="submit">Envoyer</button>
+</form> 
 
 
 
