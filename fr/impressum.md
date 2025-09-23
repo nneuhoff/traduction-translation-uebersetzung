@@ -17,7 +17,7 @@ FR | <a href="../de/index.md">DE</a> | <a href="../en/index.md">EN</a>
 
 # Conformément à la loi française (LCEN)
 Nina Neuhoff,
-Traductrice et rédactrice indépendante,
+traductrice et rédactrice indépendante,
 29200 Brest,
 SIRET: 989 971 551 000019
 
