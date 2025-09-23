@@ -1,3 +1,9 @@
+---
+layout: default-fr
+title: "Tarifs"
+lang: fr
+---
+
 <table width="100%">
 <tr>
 <td align="left">
@@ -14,8 +20,6 @@ FR | <a href="../de/index.html">DE</a> | <a href="../en/index.html">EN</a>
 </table>
 <hr>
 
-
-## Tarifs
 
 Chaque texte est unique, tout comme son prix. Le coût d'une traduction dépend généralement de son volume, de sa difficulté et du délai de livraison souhaité. Envoyez-moi simplement votre texte via le formulaire de contact pour que je puisse vous faire une offre personnalisée. Bien entendu, tous les contenus et informations seront traités de manière confidentielle.
 
