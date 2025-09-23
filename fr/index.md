@@ -14,7 +14,7 @@ FR | <a href="../de/index.html">DE</a> | <a href="../en/index.html">EN</a>
 </table>
 <hr>
 
-# Service de traduction Nina Neuhoff
+## Service de traduction Nina Neuhoff
 
 <p align="center">
 <img src="../assets/profil.jpg" width="200">
@@ -22,7 +22,7 @@ FR | <a href="../de/index.html">DE</a> | <a href="../en/index.html">EN</a>
 
 **Traductrice et Rédactrice –  Français, Anglais, Allemand**
 
-## Domaines de spécialisation
+### Domaines de spécialisation
 - Marketing et communication
 - Tourisme et culture
 - Technologie
