@@ -15,7 +15,7 @@ DE | <a href="../en/index.md">EN</a> | <a href="../fr/index.md">FR</a>
 </table>
 <hr>
 
-# Über mich
+## Über mich
 
 „Sprache ist der Schlüssel zur Welt.“ – Wilhelm von Humboldt
 
@@ -23,7 +23,7 @@ Dieses Zitat unterstreicht die enge Verbindung zwischen Sprache und Kultur – e
 
 Während meines Bachelorstudiums in Translation an der Universität Leipzig habe ich umfassende Kenntnisse in Theorie und Praxis des Übersetzens erworben. Zusätzlich habe ich als Übersetzerin und Copywriterin im Marketing gelernt, wie Sprache gezielt Zielgruppen anspricht und überzeugt. Derzeit erweitere ich meine Expertise im Masterstudium Translation und Redaktion an der Universität Brest (Frankreich) und biete meine Leistungen als freiberufliche Übersetzerin und Copywriterin an.
 
-## Lebenslauf
+### Lebenslauf
 - seit 2025: Masterstudium Translation und Redaktion an der Universität Brest (Frankreich) + Freiberuflichkeit
 - 2024-2025: Übersetzerin und Copywriterin bei ADLER Werbegeschenke
 - 2021-2025: Bachelorstudium Translation an der Universität Leipzig
