@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title | default: site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <nav style="text-align: center; padding: 1rem 0;">
+      <a href="{{ '/index.html' | relative_url }}">Page d'accueil</a> |
+      <a href="{{ '/about.html' | relative_url }}">À propos de moi</a> |
+      <a href="{{ '/services.html' | relative_url }}">Services</a> |
+      <a href="{{ '/pricing.html' | relative_url }}">Tarifs</a> |
+      <a href="{{ '/contact.html' | relative_url }}">Contact</a>
+    </nav>
+  </header>
+
+  <!-- Main content -->
+  <main>
+    {{ content }}
+  </main>
+
+  <!-- Footer -->
+  <footer style="text-align: center; padding: 1rem 0;">
+    <p>
+      &copy; 2025 Nina Neuhoff | 
+      <a href="http://www.linkedin.com/in/nina-neuhoff-32b162283">LinkedIn</a> | 
+      <a href="https://www.proz.com/translator/4180778">ProZ</a> | 
+      <a href="/fr/impressum.html">mentions légales</a>
+    </p>
+  </footer>
+</body>
+</html>
