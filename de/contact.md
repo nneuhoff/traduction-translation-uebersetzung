@@ -30,16 +30,35 @@ Damit ich Ihre Übersetzungsanfrage optimal bearbeiten kann, geben Sie bitte fol
 
 ### Kontaktformular
 
-<form action="https://formspree.io/f/mldwqbvj" method="POST"> 
-  <label for="name">Name*</label><br>
-  <input type="text" id="name" name="name" required><br><br>
+<form 
+  action="https://formie.io/form/9a26129f-18ff-4796-b5f5-30694e5f0a55"
+  method="POST"
+  enctype="multipart/form-data"
+>
+  <label> 
+    Name*:
+    <input type="text" name="name" required>
+  </label>
+  <br><br>
 
-  <label for="email">E-Mail*</label><br>
-  <input type="email" id="email" name="_replyto" required><br><br>
+  <label> 
+    E-Mail*:
+    <input type="email" name="email" required>
+  </label>
+  <br><br>
 
-  <label for="message">Nachricht*</label><br>
-  <input type="text" id="message" name="message" required><br><br> 
-  
+  <label> 
+    Nachricht*:
+    <input type="message" name="message" required>
+  </label>
+  <br><br>
+
+  <label> 
+    Anhang (max. 5 MB):
+    <input type="file" name="file">
+  </label> 
+  <br><br> 
+
   <button type="submit">Senden</button>
 </form> 
 
