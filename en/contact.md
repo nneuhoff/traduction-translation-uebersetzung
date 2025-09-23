@@ -49,7 +49,7 @@ To allow me to process your translation request as effectively as possible, plea
   
   <label>
     Your message*:
-    <textarea name="message" required></textarea>
+     <input type="message" name="message" required>
   </label>
   <br><br>
   
