@@ -15,8 +15,20 @@ FR | <a href="../de/index.md">DE</a> | <a href="../en/index.md">EN</a>
 </table>
 <hr>
 
+# Conformément à la loi française (LCEN)
+Nina Neuhoff,
+Traductrice et rédactrice indépendante,
+29200 Brest,
+SIRET: 989 971 551 000019
 
+# Responsable du contenu
+Nina Neuhoff  
 
+# Exonération de la responsabilité
+Le contenu de ce site a été créé avec le plus grand soin. Toutefois, aucune garantie ne peut être donnée quant à l'exactitude, l'exhaustivité et l'actualité des informations. 
+
+# Droits d’auteur
+Tous les textes et images de ce site sont protégés par le droit d’auteur. Toute reproduction ou diffusion nécessite une autorisation préalable.
 
 <!-- Footer -->
 <hr>
