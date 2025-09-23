@@ -1,4 +1,9 @@
-<!-- Header -->
+---
+layout: default-de
+title: "Über mich"
+lang: de
+---
+
 <table width="100%">
 <tr>
 <td align="left">
