@@ -15,22 +15,34 @@ EN | <a href="../de/index.md">DE</a> | <a href="../fr/index.md">FR</a>
 </table>
 <hr>
 
-<form action="https://formspree.io/f/mldwqbvj" method="POST">
-  <label>Name*</label><br>
-  <input type="text" name="name" required><br><br>
+## Contact
+Would you like a free, non-binding quote, or do you have any questions?
 
-  <label>Email*</label><br>
-  <input type="email" name="_replyto" required><br><br>
+Just send me a message using the contact form and I will get back to you as soon as possible!
 
-  <label>Message*</label><br>
-  <textarea name="message" required></textarea><br><br>
+To allow me to process your translation request as effectively as possible, please provide the following information:
 
-  <label for="file">Attachement (optional)</label><br>
-  <input type="file" id="file" name="file"><br><br>
+- Text type and purpose (e.g., website, brochure, social media)
+- Target audience
+- Length/volume
+- Desired delivery date
+- Format or layout requirements
+- Special instructions or notes
 
-  <button type="submit">Send</button>
-</form>
+### Contact form
 
+<form action="https://formspree.io/f/mldwqbvj" method="POST"> 
+  <label for="name">Name*</label><br>
+  <input type="text" id="name" name="name" required><br><br>
+
+  <label for="email">Email*</label><br>
+  <input type="email" id="email" name="_replyto" required><br><br>
+
+  <label for="message">Message*</label><br>
+  <input type="text" id="message" name="message" required><br><br> 
+  
+  <button type="submit">Senden</button>
+</form> 
 
 <!-- Footer -->
 <hr>
