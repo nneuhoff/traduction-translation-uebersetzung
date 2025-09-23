@@ -1,5 +1,7 @@
 ---
-title: ""
+layout: default-de
+title: "Übersetzungsservice Nina Neuhoff"
+lang: de
 ---
 
 <table width="100%">
