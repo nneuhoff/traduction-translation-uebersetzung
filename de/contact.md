@@ -30,21 +30,18 @@ Damit ich Ihre Übersetzungsanfrage optimal bearbeiten kann, geben Sie bitte fol
 
 ### Kontaktformular
 
-<form action="https://formspree.io/f/mldwqbvj" method="POST">
+<form action="https://formspree.io/f/mldwqbvj" method="POST"> 
+  <label for="name">Name*</label><br>
+  <input type="text" id="name" name="name" required><br><br>
 
-<label for="name">Name*</label><br>
-<input type="text" id="name" name="name" required><br><br>
+  <label for="email">E-Mail*</label><br>
+  <input type="email" id="email" name="_replyto" required><br><br>
 
-<label for="email">E-Mail*</label><br>
-<input type="email" id="email" name="_replyto" required><br><br>
+  <label for="message">Nachricht*</label><br>
+  <textarea id="message" name="message" rows="6" cols="40" required></textarea><br><br>
 
-<label for="message">Nachricht*</label><br>
-<textarea id="message" name="message" rows="6" cols="40" required></textarea><br><br>
-
-<button type="submit">Senden</button>
-</form>
-
-
+  <button type="submit">Senden</button>
+</form> 
 
 <!-- Footer -->
 <hr>
