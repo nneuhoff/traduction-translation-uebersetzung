@@ -14,7 +14,7 @@ FR | <a href="../de/index.html">DE</a> | <a href="../en/index.html">EN</a>
 </table>
 <hr>
 
-# Mentions légales
+## Mentions légales
 
 ### Conformément à la loi française (LCEN)
 Nina Neuhoff,
