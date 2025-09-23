@@ -24,7 +24,7 @@ SIRET: 989 971 551 000019
 # Responsable du contenu
 Nina Neuhoff  
 
-# Exonération de la responsabilité
+# Clause de non-responsabilité
 Le contenu de ce site a été créé avec le plus grand soin. Toutefois, aucune garantie ne peut être donnée quant à l'exactitude, l'exhaustivité et l'actualité des informations. 
 
 # Droits d’auteur
