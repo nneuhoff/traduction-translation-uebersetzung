@@ -26,7 +26,8 @@ DE | <a href="../en/index.md">EN</a> | <a href="../fr/index.md">FR</a>
   <textarea name="message" required></textarea><br><br>
 
   <label>Anhang</label><br>
-  <input type="file" id="file" name="file"><br><br>
+  <input type="file" name="file">
+
 
   <button type="submit">Senden</button>
 </form>
