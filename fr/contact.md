@@ -1,3 +1,9 @@
+---
+layout: default-fr
+title: "À propos de moi"
+lang: fr
+---
+
 <table width="100%">
 <tr>
 <td align="left">
