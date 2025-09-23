@@ -21,6 +21,8 @@ FR | <a href="../de/index.html">DE</a> | <a href="../en/index.html">EN</a>
 </table>
 <hr>
 
+## À propos de moi
+
 « Apprendre une langue, c’est posséder une deuxième âme » - Charlemagne. 
 
 Cette citation souligne le lien étroit entre la langue et la culture – un lien essentiel pour la traduction. En effet, traduire signifie bien plus que transposer des mots ou des phrases ; cela présuppose une compréhension approfondie de la langue, de la culture et des types de textes, ainsi que la capacité de transmettre efficacement l’essence du texte dans la langue cible.
