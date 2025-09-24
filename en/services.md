@@ -4,22 +4,6 @@ title: "Services"
 lang: en
 ---
 
-<table width="100%">
-<tr>
-<td align="left">
-<a href="index.html">Homepage</a> |
-<a href="about.html">About me</a> |
-<a href="services.html">Services</a> |
-<a href="pricing.html">Pricing</a> |
-<a href="contact.html">Contact</a>
-</td>
-<td align="right">
-EN | <a href="../de/index.html">DE</a> | <a href="../fr/index.html">FR</a>
-</td>
-</tr>
-</table>
-<hr>
-
 ## Services
 
 Language is about more than just grammar; it connects people, markets and ideas. I provide translations that are not only accurate but also impactful. Thorough research forms an integral part of my work.
@@ -38,10 +22,3 @@ From e-learning materials to scientific texts, accessibility is key to education
 
 ### Literature
 As an avid reader, I bring a keen sense of style, rhythm and nuance to my work. I translate literary texts, essays and creative content seamlessly and sensitively into the target language.
-
-
-<!-- Footer -->
-<hr>
-<p align="center">
-&copy; 2025 Nina Neuhoff | <a href="http://www.linkedin.com/in/nina-neuhoff-32b162283">LinkedIn</a> | <a href="https://www.proz.com/translator/4180778">ProZ</a> | <a href="impressum.html">legal notice</a>
-</p>
