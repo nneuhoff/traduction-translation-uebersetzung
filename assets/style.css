@@ -1,3 +1,4 @@
+/* Grundlayout */
 body {
   font-family: "Inter", sans-serif;
   font-size: 1.05rem;
@@ -9,6 +10,7 @@ body {
   color: #222;
 }
 
+/* Header & Navigation */
 header {
   text-align: center;
   padding: 1.5rem 0;
@@ -16,8 +18,10 @@ header {
 
 nav {
   display: flex;
-  justify-content: center;
-  gap: 1.5rem;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
   padding: 1rem 0;
 }
 
@@ -32,17 +36,20 @@ nav a:hover {
   color: #007acc;
 }
 
+/* Hauptinhalt als "Card" */
 main {
   background: #fff;
   padding: 2rem;
   border-radius: 12px;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
   text-align: justify; /* Blocksatz */
+  overflow-wrap: break-word; /* Textumbruch erzwingen */
 }
 
+/* Hero-Sektion für Startseite */
 .hero {
   display: flex;
-  flex-wrap: wrap; /* mobil untereinander */
+  flex-wrap: wrap;
   align-items: center;
   justify-content: center;
   gap: 2rem;
@@ -51,13 +58,13 @@ main {
 
 .hero img {
   width: 200px;
-  max-width: 100%;
+  max-width: 100%; /* Bildgröße auf Containerbreite begrenzen */
   border-radius: 50%;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
 .hero-text {
-  max-width: 100%;
+  max-width: 100%; /* Textcontainer volle Breite erlauben */
   text-align: left;
   word-wrap: break-word;
   overflow-wrap: break-word;
@@ -97,7 +104,8 @@ footer a:hover {
   color: #007acc;
 }
 
-@media (max-width: 600px) {
+/* Responsive Anpassungen */
+@media (max-width: 768px) {
   .hero {
     flex-direction: column;
     text-align: center;
