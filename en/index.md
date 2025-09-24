@@ -27,8 +27,10 @@ EN | <a href="../de/index.html">DE</a> | <a href="../fr/index.html">FR</a>
 </p>
 
 ## Freelance Translator & Copywriter – French, English, German
+Sprachrichtungen Übersetzen: FR/EN → DE
+Copywriting: FR/EN/DE
 
-## Specialist fields
+### Specialist fields
 - Marketing & Communication
 - Tourism & Cultur
 - Technology
