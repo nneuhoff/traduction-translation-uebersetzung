@@ -34,7 +34,7 @@ By using this website, you accept the collection and processing of personal data
 
 You can exercise your rights via the contact form on the website.
 
-## 5. Terms of Use
+### 5. Terms of Use
 By using this website, you fully accept the following terms:
 
 - The content is provided for informational purposes only and does not constitute personalized professional advice.
