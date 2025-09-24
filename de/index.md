@@ -7,13 +7,13 @@ lang: de
 <div class="hero">
   <img src="../assets/profil.jpg" alt="Profilbild Nina Neuhoff">
   <div class="hero-text">
-    <h1>Übersetzungsservice Nina Neuhoff</h1>
-    <p><em><b>Übersetzerin & Copywriterin – Französisch, Englisch, Deutsch</b></em></p>
+    <h2>Übersetzungsservice Nina Neuhoff</h2>
+    <p><em><b>Übersetzerin & Texterin – Französisch, Englisch, Deutsch</b></em></p>
     <ul>
       <li>Sprachrichtungen Übersetzung: FR/EN → DE</li>
       <li>Copywriting: FR/EN/DE</li>
     </ul>
-    <h3>Fachgebiete</h3>
+    <p><b><bFachgebiete</b></p>
     <ul>
       <li>Marketing & Kommunikation</li>
       <li>Tourismus & Kultur</li>
