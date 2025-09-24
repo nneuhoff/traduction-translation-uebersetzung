@@ -12,7 +12,7 @@ Traductrice et rédactrice indépendante
 29200 Brest, France  
 SIRET : 989 971 551 000019  
 
-**Responsable éditorial et juridique du site**
+**Responsable éditorial et juridique du site**  
 Nina Neuhoff  
 
 Vous pouvez me contacter via le formulaire de contact présent sur ce site.
