@@ -13,7 +13,7 @@ lang: fr
       <li>Paires de langues traduction : FR/EN → DE</li>
       <li>Rédaction : FR/EN/DE</li>
     </ul>
-    <h3>Domaines de spécialisation</h3>
+    <p><b>Domaines de spécialisation</b></p>
     <ul>
       <li>Marketing & Communication</li>
       <li>Tourisme & Culture</li>
