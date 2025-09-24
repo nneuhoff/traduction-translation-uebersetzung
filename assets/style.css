@@ -6,7 +6,7 @@ body {
   max-width: 960px;
   margin: 0 auto;
   padding: 1rem;
-  background-color: #f4f6f8;
+  background-color: #f4f6f8; /* neutraler Hintergrund */
   color: #222;
 }
 
@@ -14,8 +14,8 @@ body {
 header {
   text-align: center;
   padding: 1.5rem 0;
-  background-color: #e6f7e6; /* hellgrüner Hintergrund für Header */
-  border-bottom: 2px solid #a3d9a5; /* dezente grüne Linie */
+  background-color: #f0fff0; /* sehr hellgrüner Hintergrund */
+  border-bottom: 2px solid #c8e6c9; /* dezente grüne Linie */
 }
 
 nav {
@@ -35,7 +35,23 @@ nav a {
 }
 
 nav a:hover {
-  color: #3cb371; /* hellgrün beim Hover */
+  color: #4caf50; /* dezenter Hellgrün-Hover */
+}
+
+/* Buttons */
+button, .button {
+  background-color: #a3d9a5;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  border-radius: 5px;
+  font-weight: 500;
+  transition: background-color 0.3s;
+}
+
+button:hover, .button:hover {
+  background-color: #81c784;
 }
 
 /* Hauptinhalt als "Card" */
@@ -45,8 +61,8 @@ main {
   border-radius: 12px;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
   text-align: justify; /* Blocksatz */
-  overflow-wrap: break-word; /* Textumbruch erzwingen */
-  border-left: 4px solid #a3d9a5; /* grüner Akzent am Rand */
+  overflow-wrap: break-word;
+  border-left: 4px solid #c8e6c9; /* grüner Akzent am Rand */
 }
 
 /* Hero-Sektion für Startseite */
@@ -57,7 +73,7 @@ main {
   justify-content: center;
   gap: 2rem;
   margin: 2rem 0;
-  background-color: #f0fff0; /* sehr hellgrüner Hintergrund */
+  background-color: #f0fff0; /* dezenter hellgrüner Hintergrund */
   padding: 2rem;
   border-radius: 12px;
 }
@@ -67,7 +83,7 @@ main {
   max-width: 100%;
   border-radius: 50%;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-  border: 3px solid #a3d9a5; /* grüner Rahmen um Bild */
+  border: 3px solid #c8e6c9; /* dezenter grüner Rahmen */
 }
 
 .hero-text {
@@ -75,19 +91,19 @@ main {
   text-align: left;
 }
 
-/* Überschriften farblich akzentuieren */
 h1, h2, h3 {
-  color: #2a5d2a;
+  color: #2a5d2a; /* Überschriftenfarbe */
 }
 
 /* Links allgemein */
 a {
   color: #2a5d2a;
   text-decoration: none;
+  font-weight: 500;
 }
 
 a:hover {
-  color: #3cb371;
+  color: #4caf50;
   text-decoration: underline;
 }
 
@@ -97,8 +113,8 @@ footer {
   padding: 1.5rem 0;
   font-size: 0.9rem;
   color: #666;
-  background-color: #e6f7e6; /* hellgrüner Hintergrund im Footer */
-  border-top: 2px solid #a3d9a5;
+  background-color: #f0fff0; /* dezenter hellgrüner Hintergrund */
+  border-top: 2px solid #c8e6c9;
 }
 
 footer a {
@@ -106,7 +122,7 @@ footer a {
 }
 
 footer a:hover {
-  color: #3cb371;
+  color: #4caf50;
 }
 
 /* Responsive Anpassungen */
