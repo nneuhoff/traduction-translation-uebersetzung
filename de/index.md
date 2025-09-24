@@ -27,6 +27,8 @@ DE | <a href="../en/index.html">EN</a> | <a href="../fr/index.html">FR</a>
 </p>
 
 ## Übersetzerin & Copywriterin – Französisch, Englisch, Deutsch
+- Sprachrichtungen Übersetzen: FR/EN → DE
+- Copywriting: FR/EN/DE
 
 ## Fachgebiete
 - Marketing & Kommunikation
