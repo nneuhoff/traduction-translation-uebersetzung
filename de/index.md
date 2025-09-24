@@ -26,7 +26,7 @@ DE | <a href="../en/index.html">EN</a> | <a href="../fr/index.html">FR</a>
 <img src="../assets/profil.jpg" width="200">
 </p>
 
-## Übersetzerin & Copywriterin – Französisch, Englisch, Deutsch**
+## Übersetzerin & Copywriterin – Französisch, Englisch, Deutsch
 
 ## Fachgebiete
 - Marketing & Kommunikation
