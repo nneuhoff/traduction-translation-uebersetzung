@@ -4,41 +4,23 @@ title: "Übersetzungsservice Nina Neuhoff"
 lang: de
 ---
 
-<table width="100%">
-<tr>
-<td align="left">
-<a href="index.html">Startseite</a> |
-<a href="about.html">Über mich</a> |
-<a href="services.html">Leistungen</a> |
-<a href="pricing.html">Preise</a> |
-<a href="contact.html">Kontakt</a>
-</td>
-<td align="right">
-DE | <a href="../en/index.html">EN</a> | <a href="../fr/index.html">FR</a>
-</td>
-</tr>
-</table>
-<hr>
+<div class="hero">
+  <img src="../assets/profil.jpg" alt="Profilbild Nina Neuhoff">
+  <div class="hero-text">
+    <h1>Übersetzungsservice Nina Neuhoff</h1>
+    <h2>Übersetzerin & Copywriterin – Französisch, Englisch, Deutsch</h2>
+    <ul>
+      <li>Sprachrichtung Übersetzung: FR/EN → DE</li>
+      <li>Copywriting: FR/EN/DE</li>
+    </ul>
+    <h3>Fachgebiete</h3>
+    <ul>
+      <li>Marketing & Kommunikation</li>
+      <li>Tourismus & Kultur</li>
+      <li>Technik</li>
+      <li>Bildung</li>
+      <li>Literatur</li>
+    </ul>
+  </div>
+</div>
 
-# Übersetzungsservice Nina Neuhoff
-
-<p align="center">
-<img src="../assets/profil.jpg" width="200">
-</p>
-
-## Übersetzerin & Copywriterin – Französisch, Englisch, Deutsch
-- Sprachrichtungen Übersetzen: FR/EN → DE
-- Copywriting: FR/EN/DE
-
-## Fachgebiete
-- Marketing & Kommunikation
-- Tourismus & Kultur
-- Technik
-- Bildung
-- Literatur
-
-<!-- Footer -->
-<hr>
-<p align="center">
-&copy; 2025 Nina Neuhoff | <a href="http://www.linkedin.com/in/nina-neuhoff-32b162283/">LinkedIn</a> | <a href="https://www.proz.com/translator/4180778">ProZ</a> |<a href="impressum.html">Impressum</a>
-</p>
