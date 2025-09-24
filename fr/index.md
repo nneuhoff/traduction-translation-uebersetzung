@@ -4,42 +4,23 @@ title: "Service de traduction Nina Neuhoff"
 lang: fr
 ---
 
-<table width="100%">
-<tr>
-<td align="left">
-<a href="index.html">Page d'accueil</a> |
-<a href="about.html">A propos de moi</a> |
-<a href="services.html">Services</a> |
-<a href="pricing.html">Tarifs</a> |
-<a href="contact.html">Contact</a>
-</td>
-<td align="right">
-FR | <a href="../de/index.html">DE</a> | <a href="../en/index.html">EN</a>
-</td>
-</tr>
-</table>
-<hr>
+<div class="hero">
+  <img src="../assets/profil.jpg" alt="Photo de profil Nina Neuhoff">
+  <div class="hero-text">
+    <h1>Service de traduction Nina Neuhoff</h1>
+    <h2>Traductrice et rédactrice indépendante – français, anglais, allemand</h2>
+    <ul>
+      <li>Paires de langues traductions : FR/EN → DE</li>
+      <li>Rédaction : FR/EN/DE</li>
+    </ul>
+    <h3>Domaines de spécialisation</h3>
+    <ul>
+      <li>Marketing & Communication</li>
+      <li>Tourisme & Culture</li>
+      <li>Technologie</li>
+      <li>Éducation</li>
+      <li>Littérature</li>
+    </ul>
+  </div>
+</div>
 
-# Service de traduction Nina Neuhoff
-
-<p align="center">
-<img src="../assets/profil.jpg" width="200">
-</p>
-
-## Traductrice et rédactrice indépendante – français, anglais, allemand
-- Pairs de langue traduction : FR/EN → DE
-- Rédaction : FR/EN/DE
-
-### Domaines de spécialisation
-- Marketing et communication
-- Tourisme et culture
-- Technologie
-- Éducation
-- Littérature
-
-
-<!-- Footer -->
-<hr>
-<p align="center">
-&copy; 2025 Nina Neuhoff | <a href="http://www.linkedin.com/in/nina-neuhoff-32b162283">LinkedIn</a> | <a href="https://www.proz.com/translator/4180778">ProZ</a> | <a href="impressum.html">mentions légales</a>
-</p>
