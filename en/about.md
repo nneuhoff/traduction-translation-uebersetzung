@@ -3,21 +3,6 @@ layout: default-en
 title: "About me"
 lang: en
 ---
-<table width="100%">
-<tr>
-<td align="left">
-<a href="index.html">Homepage</a> |
-<a href="about.html">About me</a> |
-<a href="services.html">Services</a> |
-<a href="pricing.html">Pricing</a> |
-<a href="contact.html">Contact</a>
-</td>
-<td align="right">
-EN | <a href="../de/index.html">DE</a> | <a href="../fr/index.html">FR</a>
-</td>
-</tr>
-</table>
-<hr>
 
 ## About me
 
@@ -33,9 +18,3 @@ During my Bachelor’s in Translation at the University of Leipzig, I gained com
 - 2021–2025: Bachelor’s in Translation, University of Leipzig
 - 2019–2021: Executive assistant at the international law firm Taylor Wessing
 - 2017–2019: Apprenticeship as a certified multilingual secretary
-
-<!-- Footer -->
-<hr>
-<p align="center">
-&copy; 2025 Nina Neuhoff | <a href="http://www.linkedin.com/in/nina-neuhoff-32b162283">LinkedIn</a> | <a href="https://www.proz.com/translator/4180778">ProZ</a> | <a href="impressum.html">legal notice</a>
-</p>
