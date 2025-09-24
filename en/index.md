@@ -26,7 +26,7 @@ EN | <a href="../de/index.html">DE</a> | <a href="../fr/index.html">FR</a>
 <img src="../assets/profil.jpg" width="200">
 </p>
 
-## Translator & Copywriter – French, English, German**
+## Freelance Translator & Copywriter – French, English, German
 
 ## Specialist fields
 - Marketing & Communication
