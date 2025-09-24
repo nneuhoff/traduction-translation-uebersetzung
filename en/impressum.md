@@ -12,7 +12,7 @@ Freelance Translator and Copywriter
 29200 Brest, France  
 SIRET: 989 971 551 000019  
 
-### Editorial and Legal Responsible of the Site
+**Editorial and Legal Responsible of the Site**  
 Nina Neuhoff  
 
 You can contact me via the contact form available on this website.
