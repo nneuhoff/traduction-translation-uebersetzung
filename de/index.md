@@ -13,7 +13,7 @@ lang: de
       <li>Sprachrichtungen Übersetzung: FR/EN → DE</li>
       <li>Copywriting: FR/EN/DE</li>
     </ul>
-    <p><b><bFachgebiete</b></p>
+    <p><b>bFachgebiete</b></p>
     <ul>
       <li>Marketing & Kommunikation</li>
       <li>Tourismus & Kultur</li>
