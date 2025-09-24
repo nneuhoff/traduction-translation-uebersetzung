@@ -9,7 +9,7 @@ lang: en
 Language is about more than just grammar; it connects people, markets and ideas. I provide translations that are not only accurate but also impactful. Thorough research forms an integral part of my work.
 
 ### Marketing & Communication
-Language that makes an impact: With my marketing background, the texts I translate do not only inform, but also persuade – from campaigns and product descriptions to social media content. I ensure that creative elements, such as wordplay, are transferred effectively, so your message reaches your target audience.
+Language that makes an impact: With my marketing background, my texts do not only inform, but also persuade – from campaigns and product descriptions to social media content. I ensure that creative elements, such as wordplay, are transferred effectively, so your message reaches your target audience.
 
 ### Tourism & Culture
 Wanderlust, thirst for adventure, and cultural diversity: in the tourism and culture sector, it is important to appeal to emotions and transcend cultural boundaries. I ensure that brochures, websites, or exhibition texts appear authentic and inviting within the intended cultural context.
