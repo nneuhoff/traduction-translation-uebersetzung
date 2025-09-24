@@ -7,10 +7,10 @@ lang: fr
 <div class="hero">
   <img src="../assets/profil.jpg" alt="Photo de profil Nina Neuhoff">
   <div class="hero-text">
-    <h1>Service de traduction Nina Neuhoff</h1>
+    <h2>Service de traduction Nina Neuhoff</h2>
     <p><em><b>Traductrice et rédactrice indépendante – français, anglais, allemand</b></em></p>
     <ul>
-      <li>Paires de langues traductions : FR/EN → DE</li>
+      <li>Paires de langues traduction : FR/EN → DE</li>
       <li>Rédaction : FR/EN/DE</li>
     </ul>
     <h3>Domaines de spécialisation</h3>
