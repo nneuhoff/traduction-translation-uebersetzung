@@ -14,8 +14,8 @@ body {
 header {
   text-align: center;
   padding: 1.5rem 0;
-  background-color: #e6f4ea; /* hellgrüner Hintergrund */
-  border-bottom: 2px solid #b2e0c6; /* dezente Linie */
+  background-color: #e6f7e6; /* hellgrüner Hintergrund für Header */
+  border-bottom: 2px solid #a3d9a5; /* dezente grüne Linie */
 }
 
 nav {
@@ -29,13 +29,13 @@ nav {
 
 nav a {
   text-decoration: none;
-  color: #2b5d34; /* dunkles Grün für Links */
+  color: #2a5d2a; /* dunkelgrüne Schrift für Links */
   font-weight: 500;
   transition: color 0.2s ease-in-out;
 }
 
 nav a:hover {
-  color: #007acc; /* blau beim Hover */
+  color: #3cb371; /* hellgrün beim Hover */
 }
 
 /* Hauptinhalt als "Card" */
@@ -45,7 +45,8 @@ main {
   border-radius: 12px;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
   text-align: justify; /* Blocksatz */
-  overflow-wrap: break-word;
+  overflow-wrap: break-word; /* Textumbruch erzwingen */
+  border-left: 4px solid #a3d9a5; /* grüner Akzent am Rand */
 }
 
 /* Hero-Sektion für Startseite */
@@ -56,6 +57,9 @@ main {
   justify-content: center;
   gap: 2rem;
   margin: 2rem 0;
+  background-color: #f0fff0; /* sehr hellgrüner Hintergrund */
+  padding: 2rem;
+  border-radius: 12px;
 }
 
 .hero img {
@@ -63,31 +67,27 @@ main {
   max-width: 100%;
   border-radius: 50%;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  border: 3px solid #a3d9a5; /* grüner Rahmen um Bild */
 }
 
 .hero-text {
-  max-width: 100%;
+  max-width: 500px;
   text-align: left;
-  word-wrap: break-word;
-  overflow-wrap: break-word;
-  white-space: normal;
 }
 
-.hero-text h1,
-.hero-text h2,
-.hero-text h3 {
-  margin: 0.5rem 0;
-  color: #2b5d34; /* Überschriften in dunklem Grün */
+/* Überschriften farblich akzentuieren */
+h1, h2, h3 {
+  color: #2a5d2a;
 }
 
 /* Links allgemein */
 a {
-  color: #2b5d34;
+  color: #2a5d2a;
   text-decoration: none;
 }
 
 a:hover {
-  color: #007acc;
+  color: #3cb371;
   text-decoration: underline;
 }
 
@@ -96,17 +96,17 @@ footer {
   text-align: center;
   padding: 1.5rem 0;
   font-size: 0.9rem;
-  color: #555;
-  background-color: #e6f4ea; /* hellgrüner Footer-Hintergrund */
-  border-top: 2px solid #b2e0c6;
+  color: #666;
+  background-color: #e6f7e6; /* hellgrüner Hintergrund im Footer */
+  border-top: 2px solid #a3d9a5;
 }
 
 footer a {
-  color: #2b5d34;
+  color: #2a5d2a;
 }
 
 footer a:hover {
-  color: #007acc;
+  color: #3cb371;
 }
 
 /* Responsive Anpassungen */
