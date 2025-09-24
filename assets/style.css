@@ -14,6 +14,8 @@ body {
 header {
   text-align: center;
   padding: 1.5rem 0;
+  background-color: #e6f4ea; /* hellgrüner Hintergrund */
+  border-bottom: 2px solid #b2e0c6; /* dezente Linie */
 }
 
 nav {
@@ -27,13 +29,13 @@ nav {
 
 nav a {
   text-decoration: none;
-  color: #333;
+  color: #2b5d34; /* dunkles Grün für Links */
   font-weight: 500;
   transition: color 0.2s ease-in-out;
 }
 
 nav a:hover {
-  color: #007acc;
+  color: #007acc; /* blau beim Hover */
 }
 
 /* Hauptinhalt als "Card" */
@@ -43,7 +45,7 @@ main {
   border-radius: 12px;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
   text-align: justify; /* Blocksatz */
-  overflow-wrap: break-word; /* Textumbruch erzwingen */
+  overflow-wrap: break-word;
 }
 
 /* Hero-Sektion für Startseite */
@@ -58,13 +60,13 @@ main {
 
 .hero img {
   width: 200px;
-  max-width: 100%; /* Bildgröße auf Containerbreite begrenzen */
+  max-width: 100%;
   border-radius: 50%;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
 .hero-text {
-  max-width: 100%; /* Textcontainer volle Breite erlauben */
+  max-width: 100%;
   text-align: left;
   word-wrap: break-word;
   overflow-wrap: break-word;
@@ -75,11 +77,12 @@ main {
 .hero-text h2,
 .hero-text h3 {
   margin: 0.5rem 0;
+  color: #2b5d34; /* Überschriften in dunklem Grün */
 }
 
 /* Links allgemein */
 a {
-  color: #333;
+  color: #2b5d34;
   text-decoration: none;
 }
 
@@ -93,11 +96,13 @@ footer {
   text-align: center;
   padding: 1.5rem 0;
   font-size: 0.9rem;
-  color: #666;
+  color: #555;
+  background-color: #e6f4ea; /* hellgrüner Footer-Hintergrund */
+  border-top: 2px solid #b2e0c6;
 }
 
 footer a {
-  color: #555;
+  color: #2b5d34;
 }
 
 footer a:hover {
