@@ -26,7 +26,9 @@ FR | <a href="../de/index.html">DE</a> | <a href="../en/index.html">EN</a>
 <img src="../assets/profil.jpg" width="200">
 </p>
 
-**Traductrice et Rédactrice –  Français, Anglais, Allemand**
+## Traductrice et rédactrice indépendante –  Français, Anglais, Allemand**
+Pairs de langue traduction : FR/EN → DE
+Rédaction : FR/EN/DE
 
 ### Domaines de spécialisation
 - Marketing et communication
