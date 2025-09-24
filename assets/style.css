@@ -14,8 +14,8 @@ body {
 header {
   text-align: center;
   padding: 1.5rem 0;
-  background-color: #f0fff0; /* sehr hellgrüner Hintergrund */
-  border-bottom: 2px solid #c8e6c9; /* dezente grüne Linie */
+  background-color: #f8fdf8; /* sehr dezentes hellgrün */
+  border-bottom: 1px solid #dceddc; /* dezente Linie */
 }
 
 nav {
@@ -29,18 +29,18 @@ nav {
 
 nav a {
   text-decoration: none;
-  color: #2a5d2a; /* dunkelgrüne Schrift für Links */
+  color: #2a5d2a; /* dunkelgrün für Links */
   font-weight: 500;
   transition: color 0.2s ease-in-out;
 }
 
 nav a:hover {
-  color: #4caf50; /* dezenter Hellgrün-Hover */
+  color: #4caf50; /* hellgrün beim Hover */
 }
 
 /* Buttons */
 button, .button {
-  background-color: #a3d9a5;
+  background-color: #c8e6c9; /* dezentes Grün */
   color: white;
   border: none;
   padding: 0.5rem 1rem;
@@ -51,7 +51,7 @@ button, .button {
 }
 
 button:hover, .button:hover {
-  background-color: #81c784;
+  background-color: #a3d9a5;
 }
 
 /* Hauptinhalt als "Card" */
@@ -62,7 +62,7 @@ main {
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
   text-align: justify; /* Blocksatz */
   overflow-wrap: break-word;
-  border-left: 4px solid #c8e6c9; /* grüner Akzent am Rand */
+  border-left: 3px solid #dceddc; /* dezenter grüner Akzent */
 }
 
 /* Hero-Sektion für Startseite */
@@ -73,7 +73,7 @@ main {
   justify-content: center;
   gap: 2rem;
   margin: 2rem 0;
-  background-color: #f0fff0; /* dezenter hellgrüner Hintergrund */
+  background-color: #f8fdf8; /* sehr dezentes hellgrün */
   padding: 2rem;
   border-radius: 12px;
 }
@@ -83,7 +83,7 @@ main {
   max-width: 100%;
   border-radius: 50%;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-  border: 3px solid #c8e6c9; /* dezenter grüner Rahmen */
+  border: 2px solid #dceddc; /* dezenter Rahmen */
 }
 
 .hero-text {
@@ -113,8 +113,8 @@ footer {
   padding: 1.5rem 0;
   font-size: 0.9rem;
   color: #666;
-  background-color: #f0fff0; /* dezenter hellgrüner Hintergrund */
-  border-top: 2px solid #c8e6c9;
+  background-color: #f8fdf8; /* dezenter hellgrüner Footer */
+  border-top: 1px solid #dceddc;
 }
 
 footer a {
