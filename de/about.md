@@ -10,7 +10,7 @@ lang: de
 
 Dieses Zitat unterstreicht die enge Verbindung zwischen Sprache und Kultur – eine Verbindung, die für das Übersetzen von zentraler Bedeutung ist. Denn Übersetzen bedeutet weit mehr als die Übertragung von Wörtern oder Phrasen; es erfordert ein tiefes Verständnis für Sprache, Kultur und Textsorten – und die Fähigkeit, Inhalte in ihrem Kern zu erfassen und wirkungsvoll in die Zielsprache zu übertragen.
 
-Während meines Bachelorstudiums in Translation an der Universität Leipzig habe ich umfassende Kenntnisse in Theorie und Praxis des Übersetzens erworben. Zusätzlich habe ich als Übersetzerin und Copywriterin im Marketing gelernt, wie Sprache gezielt Zielgruppen anspricht und überzeugt. Derzeit erweitere ich meine Expertise im Masterstudium Translation und Redaktion an der Universität Brest (Frankreich) und biete meine Leistungen als freiberufliche Übersetzerin und Copywriterin an.
+Während meines Bachelorstudiums in Translation an der Universität Leipzig habe ich umfassende Kenntnisse in der Theorie und Praxis des Übersetzens erworben. Zusätzlich habe ich als Übersetzerin und Copywriterin im Marketing gelernt, wie Sprache gezielt Zielgruppen anspricht und überzeugt. Derzeit erweitere ich meine Expertise im Masterstudium Translation und Redaktion an der Universität Brest (Frankreich) und biete meine Leistungen als freiberufliche Übersetzerin und Texterin an.
 
 ### Lebenslauf
 - seit 2025: Masterstudium Translation und Redaktion an der Universität Brest (Frankreich) + Freiberuflichkeit
