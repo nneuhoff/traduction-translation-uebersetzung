@@ -1,7 +1,7 @@
 /* Grundlayout */
 body {
   font-family: "Inter", sans-serif;
-  font-size: 1rem;
+  font-size: 1.05rem;
   line-height: 1.7;
   max-width: 960px;
   margin: 0 auto;
@@ -20,6 +20,7 @@ nav {
   display: flex;
   justify-content: center;
   gap: 1.5rem;
+  padding: 1rem 0;
 }
 
 nav a {
@@ -80,4 +81,12 @@ footer {
   padding: 1.5rem 0;
   font-size: 0.9rem;
   color: #666;
+}
+
+footer a {
+  color: #555;
+}
+
+footer a:hover {
+  color: #007acc;
 }
