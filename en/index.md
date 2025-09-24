@@ -4,42 +4,22 @@ title: "Translation Service Nina Neuhoff"
 lang: en
 ---
 
-<table width="100%">
-<tr>
-<td align="left">
-<a href="index.html">Homepage</a> |
-<a href="about.html">About me</a> |
-<a href="services.html">Services</a> |
-<a href="pricing.html">Pricing</a> |
-<a href="contact.html">Contact</a>
-</td>
-<td align="right">
-EN | <a href="../de/index.html">DE</a> | <a href="../fr/index.html">FR</a>
-</td>
-</tr>
-</table>
-<hr>
-
-# Translation Service Nina Neuhoff
-
-<p align="center">
-<img src="../assets/profil.jpg" width="200">
-</p>
-
-## Freelance Translator & Copywriter – French, English, German
-- Language pairs translation: FR/EN → DE
-- Copywriting: FR/EN/DE
-
-### Specialist fields
-- Marketing & Communication
-- Tourism & Cultur
-- Technology
-- Education
-- Literature
-
-
-<!-- Footer -->
-<hr>
-<p align="center">
-&copy; 2025 Nina Neuhoff | <a href="http://www.linkedin.com/in/nina-neuhoff-32b162283">LinkedIn</a> | <a href="https://www.proz.com/translator/4180778">ProZ</a> | <a href="impressum.html">legal notice</a>
-</p>
+<div class="hero">
+  <img src="../assets/profil.jpg" alt="Profile picture Nina Neuhoff">
+  <div class="hero-text">
+    <h1>Translation Service Nina Neuhoff</h1>
+    <h2>Freelance Translator & Copywriter – French, English, German</h2>
+    <ul>
+      <li>Language Pairs Translation: FR/EN → DE</li>
+      <li>Copywriting: FR/EN/DE</li>
+    </ul>
+    <h3>Specializations</h3>
+    <ul>
+      <li>Marketing & Communication</li>
+      <li>Tourism & Culture</li>
+      <li>Technology</li>
+      <li>Education</li>
+      <li>Literature</li>
+    </ul>
+  </div>
+</div>
