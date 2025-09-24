@@ -8,7 +8,7 @@ lang: en
   <img src="../assets/profil.jpg" alt="Profile picture Nina Neuhoff">
   <div class="hero-text">
     <h1>Translation Service Nina Neuhoff</h1>
-    <h2>Freelance Translator & Copywriter – French, English, German</h2>
+    <p><em><b>Freelance Translator & Copywriter – French, English, German</b></em></p>
     <ul>
       <li>Language Pairs Translation: FR/EN → DE</li>
       <li>Copywriting: FR/EN/DE</li>
