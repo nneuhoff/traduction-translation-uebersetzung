@@ -4,22 +4,6 @@ title: "Services"
 lang: fr
 ---
 
-<table width="100%">
-<tr>
-<td align="left">
-<a href="index.html">Page d'accueil</a> |
-<a href="about.html">A propos de moi</a> |
-<a href="services.html">Services</a> |
-<a href="pricing.html">Tarifs</a> |
-<a href="contact.html">Contact</a>
-</td>
-<td align="right">
-FR | <a href="../de/index.html">DE</a> | <a href="../en/index.html">EN</a>
-</td>
-</tr>
-</table>
-<hr>
-
 ## Services
 
 La langue, c'est plus que la grammaire : elle relie les gens, les marchés et les idées. Je propose des traductions qui sont à la fois correctes et efficaces. Des recherches approfondies sont pour moi une évidence.
@@ -39,8 +23,3 @@ Des supports d'apprentissage en ligne aux textes à caractère scientifique : l'
 ### Littérature
 Lectrice passionnée, je sais apporter un sens du style, du rythme et des nuances. Je traduis avec sensibilité des textes littéraires, des essais ou des contenus créatifs vers la langue cible.
 
-<!-- Footer -->
-<hr>
-<p align="center">
-&copy; 2025 Nina Neuhoff | <a href="http://www.linkedin.com/in/nina-neuhoff-32b162283">LinkedIn</a> | <a href="https://www.proz.com/translator/4180778">ProZ</a> | <a href="impressum.html">mentions légales</a>
-</p>
