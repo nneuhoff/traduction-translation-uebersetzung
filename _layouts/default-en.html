@@ -10,12 +10,17 @@
 <body>
   <!-- Header -->
   <header>
-    <nav>
-      <a href="{{ '/index.html' | relative_url }}">Homepage</a> |
-      <a href="{{ '/about.html' | relative_url }}">About me</a> |
-      <a href="{{ '/services.html' | relative_url }}">Services</a> |
-      <a href="{{ '/pricing.html' | relative_url }}">Pricing</a> |
-      <a href="{{ '/contact.html' | relative_url }}">Contact</a>
+    <nav style="display: flex; justify-content: space-between; align-items: center; padding: 1rem 0;">
+      <div>
+        <a href="{{ '/index.html' | relative_url }}">Home</a> |
+        <a href="{{ '/about.html' | relative_url }}">About me</a> |
+        <a href="{{ '/services.html' | relative_url }}">Services</a> |
+        <a href="{{ '/pricing.html' | relative_url }}">Pricing</a> |
+        <a href="{{ '/contact.html' | relative_url }}">Contact</a>
+      </div>
+      <div>
+        <a href="../fr/index.html">FR</a> | EN | <a href="../de/index.html">DE</a>
+      </div>
     </nav>
   </header>
 
@@ -35,3 +40,4 @@
   </footer>
 </body>
 </html>
+
