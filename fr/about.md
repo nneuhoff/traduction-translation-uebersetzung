@@ -4,23 +4,6 @@ title: "À propos de moi"
 lang: fr
 ---
 
-
-<table width="100%">
-<tr>
-<td align="left">
-<a href="index.html">Page d'accueil</a> |
-<a href="about.html">A propos de moi</a> |
-<a href="services.html">Services</a> |
-<a href="pricing.html">Tarifs</a> |
-<a href="contact.html">Contact</a>
-</td>
-<td align="right">
-FR | <a href="../de/index.html">DE</a> | <a href="../en/index.html">EN</a>
-</td>
-</tr>
-</table>
-<hr>
-
 ## À propos de moi
 
 « Apprendre une langue, c’est posséder une deuxième âme » - Charlemagne. 
@@ -35,12 +18,3 @@ Au cours de ma licence de traduction à l'université de Leipzig, j'ai acquis de
 - 2021–2025 : Bac+3 en traduction, Université de Leipzig
 - 2019–2021 : Assistante de direction chez le cabinet international Taylor Wessing
 - 2017–2019 : Formation de secrétaire polyglotte diplômée
-
-
-
-
-<!-- Footer -->
-<hr>
-<p align="center">
-&copy; 2025 Nina Neuhoff | <a href="http://www.linkedin.com/in/nina-neuhoff-32b162283">LinkedIn</a> | <a href="https://www.proz.com/translator/4180778">ProZ</a> | <a href="impressum.html">mentions légales</a>
-</p>
