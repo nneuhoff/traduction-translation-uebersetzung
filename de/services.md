@@ -6,10 +6,10 @@ lang: de
 
 ## Leistungen
 
-Sprache ist mehr als Grammatik – sie verbindet Menschen, Märkte und Ideen. Ich biete Übersetzungen, die nicht nur korrekt, sondern auch wirkungsvoll sind. Gründliche Recherchetätigkeiten sind für mich selbstverständlich.
+Sprache ist mehr als Grammatik – sie verbindet Menschen, Märkte und Ideen. Meine Texte sind nicht nur korrekt, sondern auch wirkungsvoll. Gründliche Recherchetätigkeiten begleiten jeden Auftrag.
 
 ### Marketing & Kommunikation
-Sprache, die wirkt: Mit meinem Marketing-Hintergrund übersetze ich Texte so, dass sie informieren und überzeugen – von Kampagnen über Produktbeschreibungen bis hin zu Social-Media-Inhalten. Auch Wortspiele und kreative Elemente übersetze ich so, dass Ihre Botschaft Ihre Zielgruppe erreicht.
+Sprache, die wirkt: Ob Kampagnen, Produktbeschreibungen oder Social-Media-Inhalte – ich übertrage Ihre Botschaft präzise, kreativ und wirkungsvoll, sodass selbst Wortspiele erhalten bleiben. So erreicht Ihre Botschaft garantiert ihr Publikum.
 
 ### Tourismus & Kultur
 Reiselust, Entdeckergeist und kulturelle Vielfalt: Im Tourismus- und Kulturbereich zählt die emotionale und kulturübergreifende Ansprache. Ich sorge dafür, dass Broschüren, Websites und Ausstellungstexte auch im Zielkulturkontext authentisch und einladend wirken.
@@ -18,7 +18,7 @@ Reiselust, Entdeckergeist und kulturelle Vielfalt: Im Tourismus- und Kulturberei
 Komplexe Inhalte in klare Worte gefasst: Bedienungsanleitungen, Softwaretexte oder Produktinformationen übersetze ich präzise und benutzerfreundlich.
 
 ### Bildung
-Von E-Learning-Materialien bis zu wissenschaftsnahen Texten: Bildung lebt von Zugänglichkeit. Meine Übersetzungen helfen dabei, Wissen verständlich und ansprechend aufzubereiten.
+Von E-Learning-Materialien bis zu akademischen Texten: Bildung lebt von Zugänglichkeit. Meine Übersetzungen helfen dabei, Wissen verständlich und ansprechend aufzubereiten.
 
 ### Literatur
-Als leidenschaftliche Leserin bringe ich ein Gespür für Stil, Rhythmus und Nuancen mit. Literarische Texte, Essays oder kreative Inhalte übertrage ich mit Feingefühl in die Zielsprache.
+Als leidenschaftliche Leserin bringe ich ein feines Gespür für Stil, Rhythmus und sprachliche Nuancen in meine Arbeit ein. Ich übersetze literarische Texte, Essays und kreative Inhalte mit Feingefühl und Präzision.
