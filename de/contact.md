@@ -5,10 +5,11 @@ lang: de
 ---
 
 ## Kontakt
-Haben Sie Fragen oder wünschen Sie ein kostenloses, unverbindliches Angebot?
+**Haben Sie Fragen oder wünschen Sie ein kostenloses, unverbindliches Angebot?**
 
-Schreiben Sie mir einfach eine Nachricht über das Kontaktformular – ich melde mich schnellstmöglich bei Ihnen.
-Damit ich Ihre Übersetzungsanfrage optimal bearbeiten kann, geben Sie bitte folgende Informationen an:
+Schreiben Sie mir einfach eine Nachricht über das **Kontaktformular** – ich melde mich schnellstmöglich bei Ihnen.
+
+Damit ich Ihre Übersetzungsanfrage optimal bearbeiten kann, **geben Sie bitte folgende Informationen an**:
 
 - Textsorte und Verwendungszweck (z. B. Website, Broschüre, Social Media)
 - Zielgruppe
