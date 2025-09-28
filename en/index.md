@@ -10,7 +10,7 @@ lang: en
     <h2>Translation Service Nina Neuhoff</h2>
     <p><em><b>Freelance Translator & Copywriter – French, English, German</b></em></p>
     <ul>
-      <li>Language Pairs Translation: FR/EN → DE</li>
+      <li>Language pairs translation: FR/EN → DE</li>
       <li>Copywriting: FR/EN/DE</li>
     </ul>
     <p><b>Specializations</b></p>
