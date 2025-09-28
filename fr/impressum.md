@@ -28,7 +28,7 @@ Tous les textes et images de ce site sont protégés par le droit d’auteur. To
 
 En utilisant ce site, vous acceptez la collecte et le traitement des données personnelles conformément au RGPD.
 
-- Données collectées : nom, e-mail et informations saisies dans le formulaire de contact ou d’inscription.
+- Données collectées : nom, e-mail et informations saisies dans le formulaire de contact.
 - Finalité : répondre aux demandes, améliorer le site.
 - Durée de conservation : vos données sont conservées pendant 12 mois après le dernier contact.
 - Droits des utilisateurs : accès, rectification, suppression, limitation du traitement et portabilité des données.
