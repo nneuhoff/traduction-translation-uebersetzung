@@ -6,11 +6,11 @@ lang: fr
 
 ## Contact
 
-Vous avez des questions ou souhaitez un devis gratuit et sans engagement ?
+**Vous avez des questions ou souhaitez un devis gratuit et sans engagement ?**
 
-Envoyez-moi simplement un message via le formulaire de contact – je vous répondrai dans les plus brefs délais.
+Envoyez-moi simplement un message via **le formulaire de contact** – je vous répondrai dans les plus brefs délais.
 
-Pour m’aider à traiter votre demande de traduction efficacement, merci de fournir autant que possible les informations suivantes :
+Pour m’aider à traiter votre demande de traduction efficacement, **merci de fournir autant que possible les informations suivantes** :
 
 - Type de texte et objectif (ex. site web, brochure, réseaux sociaux)
 - Public cible
