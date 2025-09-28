@@ -6,7 +6,7 @@ lang: de
 
 ## Leistungen
 
-Sprache ist mehr als Grammatik – sie verbindet Menschen, Märkte und Ideen. Meine Texte sind nicht nur korrekt, sondern auch wirkungsvoll. Gründliche Recherchetätigkeiten begleiten jeden Auftrag.
+Sprache ist mehr als Grammatik – sie verbindet Menschen, Märkte und Ideen über Kulturen hinweg. Meine Texte sind nicht nur korrekt, sondern auch wirkungsvoll. Gründliche Recherchetätigkeiten begleiten jeden Auftrag.
 
 ### Marketing & Kommunikation
 Sprache, die wirkt: Ob Kampagnen, Produktbeschreibungen oder Social-Media-Inhalte – ich übertrage Ihre Botschaft präzise, kreativ und wirkungsvoll, sodass selbst Wortspiele erhalten bleiben. So erreicht Ihre Botschaft garantiert ihr Publikum.
