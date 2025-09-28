@@ -6,7 +6,7 @@ lang: fr
 
 ## Services
 
-La langue, c'est plus que la grammaire : elle relie les gens, les marchés et les idées. Je propose des traductions qui sont à la fois correctes et efficaces. Des recherches approfondies sont pour moi une évidence.
+La langue, c'est plus que la grammaire : elle relie les gens, les marchés et les idées. Je propose des traductions qui sont à la fois correctes et efficaces. Des recherches approfondies sont une évidence pour moi.
 
 ### Marketing et communication
 Grâce à mon expérience en marketing, je traduis des textes de manière à ce qu'ils soient informatifs et convaincants, qu'il s'agisse de campagnes, de descriptions des produits ou encore de contenus destinés aux réseaux sociaux. J'assure également la traduction des éléments créatifs, comme les jeux de mots, pour que votre message résonne auprès de votre groupe cible.
