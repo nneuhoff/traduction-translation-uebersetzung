@@ -6,7 +6,7 @@ lang: en
 
 ## Rates
 
-Every text is unique, as is the rate. The cost of a translation usually depends on **the length of the text, its level of difficulty, and the desired delivery date**. Simply send me your text via the [contact form] (https://nneuhoff.github.io/traduction-translation-uebersetzung/en/contact.html) and I will provide you with a **customized quote**. All content and information will, of course, be treated confidentially.
+Every text is unique, as is the rate. The cost of a translation usually depends on **the length of the text, its level of difficulty, and the desired delivery date**. Simply send me your text via the [contact form](https://nneuhoff.github.io/traduction-translation-uebersetzung/en/contact.html) and I will provide you with a **customized quote**. All content and information will, of course, be treated confidentially.
 
 ### Indicative rates*:
 - per source word: €0.14
