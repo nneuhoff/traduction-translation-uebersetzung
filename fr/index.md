@@ -15,8 +15,8 @@ lang: fr
     </ul>
     <p><b>Domaines de spécialisation</b></p>
     <ul>
-      <li>Marketing & Communication</li>
-      <li>Tourisme & Culture</li>
+      <li>Marketing et communication</li>
+      <li>Tourisme et culture</li>
       <li>Technologie</li>
       <li>Éducation</li>
       <li>Littérature</li>
