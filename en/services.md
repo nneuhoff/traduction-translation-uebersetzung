@@ -6,10 +6,10 @@ lang: en
 
 ## Services
 
-Language is more than grammar – it connects people, markets, and ideas. My translations are not only accurate but also impactful. Thorough research is an essential part of my work.
+Language is more than grammar – it connects people, markets, and ideas across cultures. My translations are not only accurate but also impactful. Thorough research underpins my work.
 
 ### Marketing & Communication
-Language that resonates: With my background in marketing, my texts don’t just inform – they persuade. From campaigns and product descriptions to social media content, I ensure that creative elements such as wordplay are conveyed effectively so your message reaches your target audience.
+Language that resonates: Whether campaigns, product descriptions, or social media content, I deliver your message with precision, creativity, and impact – ensuring that even the nuances of wordplay are preserved, so your message reaches its intended audience effectively.
 
 ### Tourism & Culture
 Wanderlust, thirst for adventure, and cultural diversity: In the fields of tourism and culture, it’s crucial to evoke emotions and bridge cultural gaps. I ensure that brochures, websites, and exhibition texts feel authentic and inviting within their cultural context.
