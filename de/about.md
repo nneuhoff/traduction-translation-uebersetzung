@@ -6,11 +6,12 @@ lang: de
 
 ## Über mich
 
-„Sprache ist der Schlüssel zur Welt.“ – Wilhelm von Humboldt
+*„Sprache ist der Schlüssel zur Welt.“* – Wilhelm von Humboldt
 
-Dieses Zitat unterstreicht die enge Verbindung zwischen Sprache und Kultur – eine Verbindung, die für das Übersetzen von zentraler Bedeutung ist. Denn Übersetzen bedeutet weit mehr als die Übertragung von Wörtern oder Phrasen; es erfordert ein tiefes Verständnis für Sprache, Kultur und Textsorten – und die Fähigkeit, Inhalte in ihrem Kern zu erfassen und wirkungsvoll in die Zielsprache zu übertragen.
+Dieses Zitat bringt auf den Punkt, wie eng Sprache und Kultur miteinander verbunden sind – eine Verbindung, die für das Übersetzen zentral ist. Denn Übersetzen bedeutet weit mehr als die bloße Übertragung von Wörtern oder Phrasen: Es erfordert ein tiefes Verständnis von Sprache, Kultur und Textsorten sowie die Fähigkeit, Inhalte in ihrem Kern zu erfassen und wirkungsvoll in die Zielsprache zu übertragen.
 
-Während meines Bachelorstudiums in Translation an der Universität Leipzig habe ich umfassende Kenntnisse in der Theorie und Praxis des Übersetzens erworben. Zusätzlich habe ich als Übersetzerin und Copywriterin im Marketing gelernt, wie Sprache gezielt Zielgruppen anspricht und überzeugt. Derzeit erweitere ich meine Expertise im Masterstudium Translation und Redaktion an der Universität Brest (Frankreich) und biete meine Leistungen als freiberufliche Übersetzerin und Texterin an.
+Während meines Bachelorstudiums in Translation an der Universität Leipzig habe ich fundierte Kenntnisse in Theorie und Praxis des Übersetzens erworben. Darüber hinaus habe ich als Übersetzerin und Copywriterin im Marketing gelernt, wie Sprache gezielt Zielgruppen anspricht und überzeugt. Derzeit erweitere ich meine Expertise im Masterstudium Translation und Redaktion an der Universität Brest (Frankreich) und biete meine Leistungen als freiberufliche Übersetzerin und Texterin an.
+
 
 ### Lebenslauf
 - seit 2025: Masterstudium Translation und Redaktion an der Universität Brest (Frankreich) + Freiberuflichkeit
