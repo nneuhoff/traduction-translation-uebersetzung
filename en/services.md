@@ -6,19 +6,19 @@ lang: en
 
 ## Services
 
-Language is about more than just grammar; it connects people, markets and ideas. I provide translations that are not only accurate but also impactful. Thorough research forms an integral part of my work.
+Language is more than grammar – it connects people, markets, and ideas. My translations are not only accurate but also impactful. Thorough research is an essential part of my work.
 
 ### Marketing & Communication
-Language that makes an impact: With my marketing background, my texts do not only inform, but also persuade – from campaigns and product descriptions to social media content. I ensure that creative elements, such as wordplay, are transferred effectively, so your message reaches your target audience.
+Language that resonates: With my background in marketing, my texts don’t just inform – they persuade. From campaigns and product descriptions to social media content, I ensure that creative elements such as wordplay are conveyed effectively so your message reaches your target audience.
 
 ### Tourism & Culture
-Wanderlust, thirst for adventure, and cultural diversity: in the tourism and culture sector, it is important to appeal to emotions and transcend cultural boundaries. I ensure that brochures, websites, or exhibition texts appear authentic and inviting within the intended cultural context.
+Wanderlust, thirst for adventure, and cultural diversity: In the fields of tourism and culture, it’s crucial to evoke emotions and bridge cultural gaps. I ensure that brochures, websites, and exhibition texts feel authentic and inviting within their cultural context.
 
 ### Technology
-Complex content made clear: I translate user manuals, software texts, and product information accurately in a user-friendly manner.
+Complex content made clear: I translate user manuals, software texts, and product information with accuracy and clarity, always keeping the end user in mind.
 
 ### Education
-From e-learning materials to scientific texts, accessibility is key to education. My translations present knowledge in a clear and appealing way.
+From e-learning materials to academic texts, accessibility is the key to effective education. My translations present knowledge in a clear and appealing way.
 
 ### Literature
-As an avid reader, I bring a keen sense of style, rhythm and nuance to my work. I translate literary texts, essays and creative content seamlessly and sensitively into the target language.
+As an avid reader, I bring a keen sense of style, rhythm, and nuance to my work. I translate literary texts, essays, and creative content with sensitivity and precision.
