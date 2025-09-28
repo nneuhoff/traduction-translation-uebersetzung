@@ -5,11 +5,12 @@ lang: en
 ---
 
 ## Contact
-Would you like a free, non-binding quote, or do you have any questions?
 
-Just send me a message using the contact form and I will get back to you as soon as possible!
+**Would you like a free, non-binding quote, or do you have any questions?**
 
-To allow me to process your translation request as effectively as possible, please provide the following information:
+Just send me a message using the **contact form** and I will get back to you as soon as possible!
+
+To allow me to process your translation request as effectively as possible, **please provide the following information**:
 
 - Text type and purpose (e.g., website, brochure, social media)
 - Target audience
@@ -44,7 +45,7 @@ To allow me to process your translation request as effectively as possible, plea
   <br><br>
 
   <label> 
-    File (optional, max. 5 MB):
+    File (max. 5 MB):
     <input type="file" name="file">
 
   </label> 
