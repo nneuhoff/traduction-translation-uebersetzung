@@ -6,7 +6,7 @@ lang: fr
 
 ## Services
 
-La langue, c'est plus que la grammaire : elle relie les gens, les marchés et les idées. Je propose des traductions qui sont à la fois correctes et efficaces. Des recherches approfondies sont une évidence pour moi.
+La langue, c'est plus que la grammaire : elle relie les gens, les marchés et les idées. Je propose des traductions qui sont à la fois correctes et efficaces. Des recherches approfondies font naturellement partie de mon travail.
 
 ### Marketing et communication
 Grâce à mon expérience en marketing, je traduis des textes de manière à ce qu'ils soient informatifs et convaincants, qu'il s'agisse de campagnes, de descriptions des produits ou encore de contenus destinés aux réseaux sociaux. J'assure également la traduction des éléments créatifs, comme les jeux de mots, pour que votre message résonne auprès de votre groupe cible.
@@ -18,7 +18,7 @@ Envie de voyager, soif d'aventure et diversité culturelle : dans les domaines d
 Des contenus complexes mis en des termes clairs : je traduis les modes d'emploi, les textes de logiciels ou les informations sur les produits de manière précise et conviviale.
 
 ### Éducation
-Des supports d'apprentissage en ligne aux textes à caractère scientifique : l'éducation repose sur l'accessibilité. Mes traductions contribuent à rendre les connaissances compréhensibles et attrayantes.
+Des supports d'apprentissage en ligne aux textes académiques : l'éducation repose sur l'accessibilité. Mes traductions contribuent à rendre les connaissances compréhensibles et attrayantes.
 
 ### Littérature
 Lectrice passionnée, je sais apporter un sens du style, du rythme et des nuances. Je traduis avec sensibilité des textes littéraires, des essais ou des contenus créatifs vers la langue cible.
