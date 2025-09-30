@@ -6,11 +6,11 @@ lang: de
 
 ## KONTAKT
 
-**Haben Sie Fragen oder wünschen Sie ein kostenloses, unverbindliches Angebot?**
+**Haben Sie Fragen oder wünschen Sie einen Kostenvoranschlag?**
 
 Schreiben Sie mir einfach eine Nachricht über das **Kontaktformular** – ich melde mich schnellstmöglich bei Ihnen.
 
-Damit ich Ihre Übersetzungsanfrage optimal bearbeiten kann, **geben Sie bitte folgende Informationen an**:
+Für eine optimale Bearbeitung Ihrer Übersetzungsanfrage und die Erstellung eines individuellen Kostenvoranschlags, **geben Sie bitte folgende Informationen an**:
 
 - Textsorte und Verwendungszweck (z. B. Website, Broschüre, Social Media)
 - Zielgruppe
