@@ -23,4 +23,4 @@ My extensive professional experience can help you convey your message in the fol
 **Teach with confidence**: From e-learning materials to academic texts, accessibility is the key to effective education. My translations convey knowledge clearly and engagingly.
 
 ### Literature
-**Deliver impactful stories**: As an avid reader, I bring a keen sense of style, rhythm, and nuance to my work. I translate literary texts, essays, and creative content with sensitivity and precision.
+**Successfull storytelling**: As an avid reader, I bring a keen sense of style, rhythm, and nuance to my work. I translate literary texts, essays, and creative content with sensitivity and precision.
