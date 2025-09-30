@@ -6,11 +6,11 @@ lang: fr
 
 ## CONTACT
 
-**Vous avez des questions ou souhaitez un devis gratuit et sans engagement ?**
+**Vous avez des questions ou souhaitez obtenir un devis ?**
 
 Envoyez-moi simplement un message via **le formulaire de contact** – je vous répondrai dans les plus brefs délais.
 
-Pour m’aider à traiter votre demande de traduction efficacement, **merci de fournir autant que possible les informations suivantes** :
+Afin de traiter votre demande de traduction avec la plus grande rigueur et d'établir un devis sur mesure, **merci de fournir autant que possible les informations suivantes** :
 
 - Type de texte et objectif (ex. site web, brochure, réseaux sociaux)
 - Public cible
@@ -44,7 +44,7 @@ Pour m’aider à traiter votre demande de traduction efficacement, **merci de f
   <br><br>
 
   <label> 
-    Pièce-jointe (max. 5 MB):
+    Pièce-jointe (max. 5 Mo):
     <input type="file" name="file">
   </label> 
   <br><br> 
