@@ -20,7 +20,7 @@ Gerne unterstütze ich Sie dabei, Ihre Botschaft in den folgenden Bereichen zu v
 **Komplexe Inhalte in klare Worte gefasst**: Bedienungsanleitungen, Softwaretexte oder Produktbeschreibungen übersetze ich präzise und benutzerfreundlich.
 
 ### Bildung
-**Bildung ohne Barrieren**: Von E-Learning-Materialien bis zu akademischen Texten - Bildung lebt von Zugänglichkeit. Meine Übersetzungen helfen dabei, Wissen verständlich und ansprechend aufzubereiten.
+**Bildung ohne Barrieren**: Von E-Learning-Materialien bis zu akademischen Texten – Bildung lebt von Zugänglichkeit. Meine Übersetzungen helfen dabei, Wissen verständlich und ansprechend aufzubereiten.
 
 ### Literatur
 **Storytelling mit Feingefühl**: Als leidenschaftliche Leserin bringe ich ein feines Gespür für Stil, Rhythmus und sprachliche Nuancen in meine Arbeit ein. Ich übersetze literarische Texte, Essays und kreative Inhalte mit Feingefühl und Präzision.
