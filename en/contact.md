@@ -4,7 +4,7 @@ title: "Contact"
 lang: en
 ---
 
-## Contact
+## CONTACT
 
 **Would you like a free, non-binding quote, or do you have any questions?**
 
