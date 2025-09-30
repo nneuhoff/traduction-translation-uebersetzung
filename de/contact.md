@@ -4,7 +4,8 @@ title: "Kontakt"
 lang: de
 ---
 
-## Kontakt
+## KONTAKT
+
 **Haben Sie Fragen oder wünschen Sie ein kostenloses, unverbindliches Angebot?**
 
 Schreiben Sie mir einfach eine Nachricht über das **Kontaktformular** – ich melde mich schnellstmöglich bei Ihnen.
