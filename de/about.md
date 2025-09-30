@@ -19,7 +19,7 @@ Derzeit erweitere ich meine Expertise im Masterstudium Translation und Redaktion
 
 ### Berufserfahrung
 - seit 2025: Masterstudium Translation und Redaktion an der Universität Brest (Frankreich) + Freiberuflichkeit
-- 2024-2025: Übersetzerin und Copywriterin bei ADLER Werbegeschenke
-- 2021-2025: Bachelorstudium Translation an der Universität Leipzig
-- 2019-2021: Assistentin der Geschäftsführung bei Taylor Wessing
-- 2017-2019: Ausbildung zur staatlich geprüften Fremdsprachenkorrespondentin
+- 2024–2025: Übersetzerin und Copywriterin bei ADLER Werbegeschenke
+- 2021–2025: Bachelorstudium Translation an der Universität Leipzig
+- 2019–2021: Assistentin der Geschäftsführung bei Taylor Wessing
+- 2017–2019: Ausbildung zur staatlich geprüften Fremdsprachenkorrespondentin
