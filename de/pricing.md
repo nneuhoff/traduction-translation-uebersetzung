@@ -6,7 +6,7 @@ lang: de
 
 ## PREISE
 
-Jeder Text ist einzigartig – und so auch der Preis. Die Kosten für eine Übersetzung richten sich in der Regel nach **Umfang, Schwierigkeitsgrad und gewünschter Lieferfrist**. Senden Sie mir Ihren Text einfach über das [**Kontaktformular**](https://nneuhoff.github.io/traduction-translation-uebersetzung/de/contact.html), damit ich Ihnen ein **individuelles Angebot** erstellen kann. Selbstverständlich werden alle Inhalte und Angaben vertraulich behandelt.
+Jeder Text ist einzigartig – und so auch der Preis. Die Kosten für eine Übersetzung richten sich in der Regel nach **Umfang, Schwierigkeitsgrad und gewünschter Lieferfrist**. Um einen Kostenvoranschlag für Ihr Übersetzungsprojekt zu erhalten, senden Sie mir bitte Ihren Text über das [**Kontaktformular**](https://nneuhoff.github.io/traduction-translation-uebersetzung/de/contact.html) zu. Selbstverständlich werden alle übermittelten Inhalte und Angaben streng vertraulich behandelt.
 
 ### Richtwerte für die Preisberechnung*:
 - pro Wort des Ausgangstextes: 0,14 €
