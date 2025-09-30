@@ -4,7 +4,7 @@ title: "About me"
 lang: en
 ---
 
-## About me
+## ABOUT ME
 
 *“Language is the road map of a culture. It tells you where its people come from and where they are going.”* - Rita Mae Brown 
 
@@ -17,7 +17,7 @@ During my studies in Translation at the University of Leipzig, I have gained com
 
 I am currently expanding my expertise through a Master’s program in Translation and Professional Writing at the University of Brest (France) and offer my services as a freelance translator and copywriter.
 
-### CV
+### Professional Experience
 - Since 2025: Pursuing a Master's Degree in Translation and Professional Writing, University of Brest (France) + Freelance
 - 2024–2025: Translator and Copywriter at ADLER Business Gifts
 - 2021–2025: Bachelor’s Degree in Translation, University of Leipzig
