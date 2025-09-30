@@ -10,7 +10,7 @@ lang: en
 
 Please send me a message using the **contact form**, and I will respond as soon as possible.
 
-For an accurate quote and to allow me to process your translation request as effectively as possible, **please provide the following information**:
+To receive a personalized quote and to allow me to process your translation request as effectively as possible, **please provide the following information**:
 
 - Text type and purpose (e.g., website, brochure, social media)
 - Target audience
