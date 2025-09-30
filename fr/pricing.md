@@ -4,7 +4,7 @@ title: "Tarifs"
 lang: fr
 ---
 
-## Tarifs
+## TARIFS
 
 Chaque texte est unique, tout comme son prix. Le coût d'une traduction dépend généralement **de son volume, de sa difficulté et du délai de livraison souhaité**. Envoyez-moi simplement votre texte via le [**formulaire de contact**](https://nneuhoff.github.io/traduction-translation-uebersetzung/fr/contact.html) pour que je puisse vous faire une **offre personnalisée**. Bien entendu, tous les contenus et informations seront traités de manière confidentielle.
 
