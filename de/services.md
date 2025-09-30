@@ -17,7 +17,7 @@ Gerne unterstütze ich Sie dabei, Ihre Botschaft in den folgenden Bereichen zu v
 **Reiselust, Entdeckergeist und kulturelle Vielfalt**: Im Tourismus- und Kulturbereich zählt die emotionale und kulturübergreifende Ansprache. Ich sorge dafür, dass Broschüren, Websites und Ausstellungstexte auch im Zielkulturkontext authentisch und einladend wirken.
 
 ### Technik
-**Komplexe Inhalte in klare Worte gefasst**: Bedienungsanleitungen, Softwaretexte oder Produktinformationen übersetze ich präzise und benutzerfreundlich.
+**Komplexe Inhalte in klare Worte gefasst**: Bedienungsanleitungen, Softwaretexte oder Produktbeschreibungen übersetze ich präzise und benutzerfreundlich.
 
 ### Bildung
 **Bildung ohne Barrieren**: Von E-Learning-Materialien bis zu akademischen Texten - Bildung lebt von Zugänglichkeit. Meine Übersetzungen helfen dabei, Wissen verständlich und ansprechend aufzubereiten.
