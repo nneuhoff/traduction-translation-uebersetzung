@@ -6,11 +6,11 @@ lang: en
 
 ## CONTACT
 
-**Would you like a free, non-binding quote, or do you have any questions?**
+**Do you need a quote or have any questions?**
 
-Just send me a message using the **contact form** and I will get back to you as soon as possible!
+Please send me a message using the **contact form**, and I will respond as soon as possible.
 
-To allow me to process your translation request as effectively as possible, **please provide the following information**:
+For an accurate quote and to allow me to process your translation request as effectively as possible, **please provide the following information**:
 
 - Text type and purpose (e.g., website, brochure, social media)
 - Target audience
