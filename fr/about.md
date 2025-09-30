@@ -20,5 +20,5 @@ Je continue actuellement de développer mes compétences dans le cadre d'un mast
 - Depuis 2025 : Bac+5 en traduction et rédaction, Université de Brest + Freelance
 - 2024–2025 : Traductrice et rédactrice chez ADLER Cadeaux d’Affaires
 - 2021–2025 : Bac+3 en traduction, Université de Leipzig
-- 2019–2021 : Assistante de direction chez le cabinet international Taylor Wessing
+- 2019–2021 : Assistante de direction chez Taylor Wessing
 - 2017–2019 : Formation de secrétaire polyglotte diplômée
