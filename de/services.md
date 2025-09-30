@@ -4,7 +4,7 @@ title: "Leistungen"
 lang: de
 ---
 
-## Leistungen
+## LEISTUNGEN
 
 Sprache ist mehr als Grammatik – sie verbindet Menschen, Märkte und Ideen über Kulturen hinweg. Meine Texte sind nicht nur korrekt, sondern auch wirkungsvoll. Gründliche Recherchetätigkeiten begleiten jeden Auftrag.
 
