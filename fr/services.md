@@ -4,7 +4,7 @@ title: "Services"
 lang: fr
 ---
 
-## Services
+## SERVICES
 
 La langue, c'est bien plus que la grammaire : elle relie les personnes, les marchés et les idées à travers les cultures. Mes textes sont à la fois corrects et efficaces. Des recherches approfondies font naturellement partie de mon travail.
 
