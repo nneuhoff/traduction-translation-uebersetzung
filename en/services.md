@@ -8,7 +8,7 @@ lang: en
 
 Language is more than grammar – it connects people, markets, and ideas across cultures. The services I offer not only provide accurate translations of your content but also create the desired impact for your target audience. 
 
-My extensive professional experience can help you convey your message in the following areas:
+My professional experience can help you convey your message in the following areas:
 
 ### Marketing & Communication
 **Language that resonates**: Whether campaigns, product descriptions, or social media content, I deliver your message with precision, creativity, and impact – ensuring that even the nuances of wordplay are preserved, so your message reaches its intended audience effectively.
