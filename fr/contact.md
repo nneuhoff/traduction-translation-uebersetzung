@@ -4,7 +4,7 @@ title: "Contact"
 lang: fr
 ---
 
-## Contact
+## CONTACT
 
 **Vous avez des questions ou souhaitez un devis gratuit et sans engagement ?**
 
