@@ -11,7 +11,7 @@ lang: en
 The above quote highlights the profound connection between language and culture. It's a link that lies at the heart of translation, and one that roots itself in my
 professional services. 
 
-After all, translation is more than just transferring words or phrases. It requires a deep understanding of language, culture, and content, as well as the ability to effectively convey the essence of a text into the target language.
+After all, translation is more than just transferring words or phrases. It requires a deep understanding of language, culture, and context, as well as the ability to effectively convey the essence of a text into the target language.
 
 During my studies in Translation at the University of Leipzig, I have gained comprehensive knowledge of translation theory and practice. In addition, my professional experience as a translator and copywriter in marketing has taught me how to engage audiences through language effectively. 
 
