@@ -10,7 +10,7 @@ lang: fr
 
 Cette citation souligne le lien étroit entre la langue et la culture – un lien essentiel pour la traduction, qui est au cœur de mes services professionnels. 
 
-En effet, traduire signifie bien plus que transposer des mots ou des phrases : cela présuppose une compréhension approfondie de la langue, de la culture et du contenu, ainsi que la capacité de transmettre efficacement l’essence d'un texte dans la langue cible.
+En effet, traduire signifie bien plus que transposer des mots ou des phrases : cela présuppose une compréhension approfondie de la langue, de la culture et du contexte, ainsi que la capacité de transmettre efficacement l’essence d'un texte dans la langue cible.
 
 Au cours de ma licence de traduction à l'université de Leipzig, j'ai acquis des connaissances approfondies en théorie et en pratique de la traduction. De plus, mon expérience professionnelle en tant que traductrice et rédactrice dans le domaine du marketing m'a appris comment la langue permet de s'adresser de manière ciblée à des publics spécifiques. 
 
