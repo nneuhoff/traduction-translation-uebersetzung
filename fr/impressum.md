@@ -33,6 +33,8 @@ En utilisant ce site, vous acceptez la collecte et le traitement des données pe
 - Durée de conservation : vos données sont conservées pendant 12 mois après le dernier contact.
 - Droits des utilisateurs : accès, rectification, suppression, limitation du traitement et portabilité des données.
 
+Vous pouvez exercer vos droits via le formulaire de contact présent sur le site.
+
 ### 5. Conditions générales d’utilisation (CGU)
 
 L’utilisation du site implique l’acceptation pleine et entière des conditions suivantes :
