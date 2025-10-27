@@ -18,8 +18,9 @@ During my studies in Translation at the University of Leipzig, I have gained com
 I am currently expanding my expertise through a Master’s program in Translation and Professional Writing at the University of Brest (France) and offer my services as a freelance translator and copywriter.
 
 ### Professional Experience
-- Since 2025: Pursuing a Master's Degree in Translation and Professional Writing, University of Brest (France) + Freelance
-- 2024–2025: Translator and Copywriter at ADLER Business Gifts
-- 2021–2025: Bachelor’s Degree in Translation, University of Leipzig
-- 2019–2021: Executive Assistant at Taylor Wessing
-- 2017–2019: Apprenticeship as a Certified Multilingual Secretary
+- Since 2025: Pursuing a Master's Degree in Translation and Technical Writing, University of Brest (France) + Freelance
+- 2025:       Working Student in Translation Management & Marketing at Ottobock
+- 2024–2025:  Working Student in Translation & Copywriting at ADLER Business Gifts
+- 2021–2025:  Bachelor’s Degree in Translation, University of Leipzig
+- 2019–2021:  Executive Assistant at Taylor Wessing
+- 2017–2019:  Apprenticeship as a Certified Multilingual Secretary
