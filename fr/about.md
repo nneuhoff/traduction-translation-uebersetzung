@@ -16,9 +16,10 @@ Au cours de ma licence de traduction à l'université de Leipzig, j'ai acquis de
 
 Je continue actuellement de développer mes compétences dans le cadre d'un master en traduction et rédaction à l'université de Brest, et je propose mes services en tant que traductrice et rédactrice indépendante.
 
-### CV
-- Depuis 2025 : Bac+5 en traduction et rédaction, Université de Brest + Freelance
-- 2024–2025 : Traductrice et rédactrice chez ADLER Cadeaux d’Affaires
-- 2021–2025 : Bac+3 en traduction, Université de Leipzig
-- 2019–2021 : Assistante de direction chez Taylor Wessing
-- 2017–2019 : Formation de secrétaire polyglotte diplômée
+### Expérience professionnelle
+- Depuis 2025 : Bac+5 en traduction et rédaction technique, Université de Brest + activité freelance
+- 2025 :        Étudiante salariée en gestion des traductions et en marketing chez Ottobock
+- 2024–2025 :   Étudiante salariée en traduction et rédaction chez ADLER Cadeaux d’Affaires
+- 2021–2025 :   Bac+3 en traduction, Université de Leipzig
+- 2019–2021 :   Assistante de direction chez Taylor Wessing
+- 2017–2019 :   Formation de secrétaire polyglotte diplômée
